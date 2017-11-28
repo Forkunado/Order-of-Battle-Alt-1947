@@ -1,0 +1,19 @@
+﻿// NAME
+scenario_name = Invasion San Francisco
+
+// DESCRIPTION
+scenario_descr = 1947:||Defend San Francisco
+
+// BRIEFINGS
+
+// OBJECTIVES
+
+// UNIT NAMES
+
+// HEX NAMES
+
+// SPAWNED UNIT NAMES
+
+// TRIGGER TEXTS
+
+// OUTCOME EVENTS

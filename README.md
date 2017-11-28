@@ -1,2 +1,2 @@
-# Order-of-Battle-Alt-1947
-Alternate History Scenarios for Order of Battle Pacific
+# 1947
+Order of Battle Alt History Scenarios and Campaigns
