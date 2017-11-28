@@ -14,13 +14,14 @@ While Japan has hopes of the consolidation of the Greater East Asia Co-Prosperit
 
 After the success of the Valkyrie plot resulting in the death of Hitler, and Kruschev's orchestration of Stalin's assassination, the world has been in an uneasy state of ceasefire.
 
-After over two years of an unsteady peace with all sides licking their wounds and trying to recover, the world waits for the inevitable resumption of hostilities.
 
 1946:
 
 The 'big one' hits the West Coast. A magnitude 7 earth quake rocks the west coast, devastating San Francisco, Los Angeles and causing serious damage as far north as Seattle. In San Francisco, The Golden Gate bridge and Bay Bridge fall into the bay, and major portions of the city are leveled. The US economy, already suffering from the burden of the aborted war, is dealt a harsh blow.
 
 May 1947 (now):
+
+After over two years of an unsteady peace with all sides licking their wounds and trying to recover, the world waits for the inevitable resumption of hostilities.
 
 The reconstruction of San Francisco is well underway, but the city is a shell of its former self. In Asia, Japan continues to suffer under the effects of the sabotage campaign backed by renegade US and European industrialists even as trials begin in the US and England and some conspirators are indicted. While Suzuki and Yamamoto recommend peaceful negotations, and Truman attempts to repair the damage, the younger cadre of recently blooded officers in the Imperial Army and Navy push Hirohito to act. Japan decides to strike again and take put an end to the thorn in their side by moving the fight from Asia to North America in a series of limited but decisive attacks to further set back US production.
 
