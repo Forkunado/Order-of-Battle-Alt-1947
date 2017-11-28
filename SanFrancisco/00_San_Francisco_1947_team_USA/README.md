@@ -17,7 +17,7 @@ After the success of the Valkyrie plot resulting in the death of Hitler, and Kru
 
 1946:
 
-The 'big one' hits the West Coast. A magnitude 7 earth quake rocks the west coast, devastating San Francisco, Los Angeles and causing serious damage as far north as Seattle. In San Francisco, The Golden Gate bridge and Bay Bridge fall into the bay, and major portions of the city are leveled. The US economy, already suffering from the burden of the aborted war, is dealt a harsh blow.
+The 'big one' hits. A magnitude 7 earth quake rocks the west coast, devastating San Francisco, Los Angeles and causing serious damage as far north as Seattle. In San Francisco, The Golden Gate bridge and Bay Bridge fall collapse, and major portions of the city are leveled. The US economy, already suffering from the burden of the aborted war, is dealt a harsh blow.
 
 May 1947 (now):
 
