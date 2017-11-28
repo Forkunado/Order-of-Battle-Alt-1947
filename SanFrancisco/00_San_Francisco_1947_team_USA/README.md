@@ -5,7 +5,7 @@ Background:
 
 1944:
 
-After the success of the Valkyrie plot resulting in the death of Hitler, and Kruschev's orchestration of Stalin's assassination in 1944, the world has been in an uneasy state of ceasefire.
+After the success of the Valkyrie plot resulting in the death of Hitler, and Kruschev's orchestration of Stalin's assassination, the world has been in an uneasy state of ceasefire.
 
 The failure of the US to kill Yamamoto has led him to become an even greater national hero. The discovery of the US plot draws the ire of the World's opinion. Yamamoto now has the ear of the Emperor, leading to Tojo's downfall. The more moderate Suzuki is promoted from Chamberlain to Prime Minister, leading to a complete change in Japanese Strategy focusing on protecting and improving supply lines and an end to expansion and aggression. Suzuki travels to the US and sues for peace, which the US grudgingly accepts.
 
