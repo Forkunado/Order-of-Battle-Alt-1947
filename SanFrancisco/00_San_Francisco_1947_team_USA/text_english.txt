@@ -2,18 +2,64 @@
 scenario_name = Invasion San Francisco
 
 // DESCRIPTION
-scenario_descr = 1947:||Defend San Francisco
+scenario_descr = After the success of the Valkyrie plot and the death of Hitler in 1943, and Kruschev's orchestration of Stalin's assassination in 1944, the world has been in an uneasy state of ceasefire.||||The failure of the US to kill Yamamoto led him to become a national hero, which led to the downfall of Tojo and a complete change in Japanese strategy focusing on protecting and improving supply lines. Tojo is disgraced and Suzuki become Prime Minister, leading to a complete change in Japanese Strategy. While Japan has hopes of the consolidation of the Greater East Asia Co-Prosperity Sphere and an end to the pressures of expansion, the US is unhappy with the current situation and the lack of opportunities in Asian markets. US industrialists and certain 'paid-for' politicians, flush with capital but concerned about the ceasefire collapsing the US economy go behind Truman's back and begin funding a campaign of financial and infrastructure sabotage across Asia to provoke Japan into action.||||After over two years of an unsteady peace with all sides licking their wounds, the world waits for the inevitable resumption of hostilities.||||June 1946:||||The 'big one' hits California. A magnitude 7 earth quake rocks the west cost, devestating San Francisco and Los Angeles. The Golden Gate bridge and Bay Bridge are destroyed, and major portions of the city are leveled. The US economy, already suffering from the burden of the aborted war, is dealt a harsh blow.||||May 1947:||||The reconstruction of San Francisco is well underway, but the city is a shell of its former self. In Asia, Japan continues to suffer under the effects of the sabotage campaign. While Suzuki and Yamamoto recommend peaceful negotations, and Truman attempts to repair the damage, the younger cadre of recently blooded officers in the Imperial Army and Navy push Hirohito to act. Japan decides to strike again and take put an end to the thorn in their side by moving the fight from Asia to North America in a series of limited but decisive attacks to further set back US production.||||The first strike: San Francisco
 
 // BRIEFINGS
 
 // OBJECTIVES
+objective_2_0 = Destroy Yamato
+objective_2_0_award = objective_2_0_award
+objective_2_1 = Repel Invasion
+objective_2_1_award = #
+objective2_2_0 = Guard the Outgoing Fleet
+objective2_2_0_award = #A task force will attempt to embark and run the gauntlet to head west to bolster forces in Hawaii.
+objective2_2_1 = Repair the Radar Station
+objective2_2_1_award = #
 
 // UNIT NAMES
 
 // HEX NAMES
+hex_596 = Fort Baker/Point Bonita
+hex_663 = Moss Beach
+hex_721 = Rockaway Beach
+hex_791 = Fort Miley
+hex_829 = South San Francisco
+hex_831 = South San Francisco
+hex_847 = Fort Baker
+hex_941 = Presidio
+hex_987 = Mt Davidson
+hex_1044 = Fort Mason
+hex_1092 = San Francisco Downtown
+hex_1097 = Alcatraz Island
+hex_1182 = Visitacion Point
+hex_1193 = North Point
+hex_1228 = San Bruno Point
+hex_1238 = Potrero Point
+hex_1274 = Port of San Francisco
+hex_1285 = Point Avisadero
+hex_1296 = Treasure Island
+hex_1318 = Burlingam
+hex_1416 = San Mateo
+hex_1592 = Alameda
+hex_1710 = San Carlos
+hex_1717 = Point San Mateo
+hex_1745 = Oakland
+hex_1798 = Berkeley
+hex_1806 = Redwood City
+hex_1816 = Brewer Island
+hex_2204 = Palo Alto
+hex_2281 = San Lorenzo
+hex_2286 = San Leandro
+hex_2326 = Russell City
+hex_2379 = Hayward
+hex_2382 = Lockheed Experimental Field
+hex_2580 = Hayward
+hex_2701 = Moffett Field
 
 // SPAWNED UNIT NAMES
 
 // TRIGGER TEXTS
+dialog_trigger_70_89_title = dialog_trigger_70_89_title
+dialog_trigger_70_89_text = dialog_trigger_70_89_text
 
 // OUTCOME EVENTS
